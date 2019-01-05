@@ -9,12 +9,13 @@ I wanted a quick way to start a React app with webpack, babel and express withou
 ### Usage
 1. Clone repo 
 2. Change directory to the new myReactProject directory
-3. Run npm install
-4. Run npm start
-5. Navigate in your browser to http://localhost:3000
+3. Run `npm install`
+4. Run `npm build` to run webpack
+5. Run `npm start`
+6. Navigate in your browser to http://localhost:3000
 
 ### Example
-``` 
+```javascript 
 git clone https://github.com/bergerinc/react-scaffold.git myReactProject
 cd myReactProject
 npm i
