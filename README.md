@@ -1,9 +1,25 @@
 # react-scaffold
 ## Simple scaffold for React apps
 
-This is a simple scaffold for React apps that does not include the complexity of create-react-app. 
+This is a simple scaffolding project for React apps that does not include the complexity of create-react-app. 
 
-### Purpose: 
+### Purpose
 I wanted a quick way to start a React app with webpack, babel and express without having the bloat of create-react-app.
+
+### Usage
+1. Clone repo 
+2. Change directory to the new myReactProject directory
+3. Run npm install
+4. Run npm start
+5. Navigate in your browser to http://localhost:3000
+
+### Example
+``` 
+git clone https://github.com/bergerinc/react-scaffold.git myReactProject
+cd myReactProject
+npm i
+npm start
+```
+
 
 
