@@ -19,6 +19,7 @@ I wanted a quick way to start a React app with webpack, babel and express withou
 git clone https://github.com/bergerinc/react-scaffold.git myReactProject
 cd myReactProject
 npm i
+npm run build
 npm start
 ```
 
